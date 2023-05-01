@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS digiblog_db;
+CREATE DATABASE digiblog_db;
